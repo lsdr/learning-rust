@@ -1,0 +1,4 @@
+[package]
+name = "gmaps"
+version = "0.1.0"
+authors = ["Luiz Rocha <lsdrocha@gmail.com>"]
