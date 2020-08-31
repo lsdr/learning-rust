@@ -1,0 +1,12 @@
+[package]
+name = "learning-rust"
+version = "0.1.0"
+authors = ["Luiz Rocha <lsdrocha@gmail.com>"]
+edition = "2018"
+license = "WTFPL"
+readme = "README.md"
+description = "Junk code I created while trying to learn rust"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
